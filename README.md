@@ -1,0 +1,2 @@
+# wpu-resolusi
+teknologi cloud
